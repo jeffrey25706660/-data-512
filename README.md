@@ -11,7 +11,11 @@ The [Pageviews API](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metr
 
 See the License section below for important legal information.
 
+# Output Schema
 
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 # License
 
