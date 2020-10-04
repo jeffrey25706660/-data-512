@@ -15,14 +15,17 @@ See the License section below for important legal information.
 The data output (en-wikipedia_traffic_200712-202008.csv) includes eight columns with the definition as follows:
 
 Column | Description | 
---- | --- |
 Year | Reporting year of the website traffic  | 
---- | --- |
 Month | Reporting month of the website traffic | 
---- | --- |
-pageview_mobile_views| monthly pageview count of mobile devices | 
+pageview_mobile_views| monthly pageview count of mobile devices recorded by Pageviews API  | 
+pageview_desktop_views| monthly pageview count of desktop recorded by Pageviews API  | 
+pageview_all_views | monthly pageview count of desktop and mobile devices recorded by Pageviews API |
+pagecount_mobile_views | monthly pagecount of mobile devices recorded by the legacy API| 
+pagecount_desktop_views | monthly pagecount of mobile desktop recorded by the legacy API |
+pagecount_all_views | monthly pagecount of desktop and mobile devices recorded by the legacy API|
+
 
 
 # License
+Wikimedia Foundation [Term of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions) and [Privacy Policy] (https://foundation.wikimedia.org/wiki/Privacy_policy)
 
-Wikimedia Foundation [Term of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions)
