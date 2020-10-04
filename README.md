@@ -15,6 +15,7 @@ See the License section below for important legal information.
 The data output (en-wikipedia_traffic_200712-202008.csv) includes eight columns with the definition as follows:
 
 Column | Description | 
+--- | --- |
 Year | Reporting year of the website traffic  | 
 Month | Reporting month of the website traffic | 
 pageview_mobile_views| monthly pageview count of mobile devices recorded by Pageviews API  | 
