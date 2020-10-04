@@ -18,14 +18,17 @@ Column | Description |
 --- | --- |
 Year | Reporting year of the website traffic  | 
 Month | Reporting month of the website traffic | 
-pageview_mobile_views| monthly pageview count of mobile devices recorded by Pageviews API  | 
-pageview_desktop_views| monthly pageview count of desktop recorded by Pageviews API  | 
-pageview_all_views | monthly pageview count of desktop and mobile devices recorded by Pageviews API |
-pagecount_mobile_views | monthly pagecount of mobile devices recorded by the legacy API| 
-pagecount_desktop_views | monthly pagecount of mobile desktop recorded by the legacy API |
-pagecount_all_views | monthly pagecount of desktop and mobile devices recorded by the legacy API|
+pageview_mobile_views| monthly pageviews of mobile devices recorded by Pageviews API  | 
+pageview_desktop_views| monthly pageviews of desktop recorded by Pageviews API  | 
+pageview_all_views | monthly pageviews of desktop and mobile devices recorded by Pageviews API |
+pagecount_mobile_views | monthly pageviews of mobile devices recorded by the legacy API| 
+pagecount_desktop_views | monthly pageviews of mobile desktop recorded by the legacy API |
+pagecount_all_views | monthly pageviews of desktop and mobile devices recorded by the legacy API|
 
+# Notes
+The code is built based on the interest in organic (user) traffic, as opposed to traffic by web crawlers or spiders. Thus, the call to Pageview API includes a condition agent=user.The legacy API, however, does not offer the same parameter for developers.
 
+The complete mobile data recorded by Wikipedia is only available after October 2014.
 
 # License
 Wikimedia Foundation [Term of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions) and [Privacy Policy] (https://foundation.wikimedia.org/wiki/Privacy_policy)
