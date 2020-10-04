@@ -1,6 +1,6 @@
 # Human Centered Data Science - A1: Data Curation
 
-The goal for this assignment is to analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2020. I retrieve 5 sets of data using Legacy Pagecounts and the Pageviews APIs and perform data cleansing and analysis to gain deeper understanding on total visits by device types. 
+The goal for this assignment is to analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2020. I retrieve 5 sets of data using Legacy Pagecounts API and Pageviews API and perform data analysis to gain deeper understanding of total traffic of the website by device types. 
 
 # Data Sources
 Two different API endpoints, the Legacy Pagecounts API and the Pageviews API.
