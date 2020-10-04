@@ -9,5 +9,10 @@ The [Legacy Pagecounts API](https://wikimedia.org/api/rest_v1/#!/Pagecounts_data
 
 The [Pageviews API](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through last month. For complete documentation, visit [here](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews).
 
+See the License section below for important legal information.
 
 
+
+# License
+
+Wikimedia Foundation [Term of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions)
