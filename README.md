@@ -2,6 +2,8 @@
 
 The goal for this assignment is to analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2020. I retrieve 5 sets of data using Legacy Pagecounts API and Pageviews API and perform data analysis to gain deeper understanding of the traffic trend by device types overtime. 
 
+![alt text](https://github.com/jeffrey25706660/-data-512/blob/main/data-512-a1/HW1_Jeffrey_Graph.jpg?raw=true)
+
 # Data Sources
 Two API endpoints, the Legacy Pagecounts API and the Pageviews API.
 
