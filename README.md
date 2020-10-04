@@ -12,10 +12,16 @@ The [Pageviews API](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metr
 See the License section below for important legal information.
 
 # Output Schema
+The data output (en-wikipedia_traffic_200712-202008.csv) includes eight columns with the definition as follows:
 
-Year | #1 | 
+Column | Description | 
 --- | --- |
-Month | 301 | 
+Year | Reporting year of the website traffic  | 
+--- | --- |
+Month | Reporting month of the website traffic | 
+--- | --- |
+pageview_mobile_views| monthly pageview count of mobile devices | 
+
 
 # License
 
