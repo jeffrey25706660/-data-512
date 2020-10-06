@@ -33,5 +33,5 @@ The code is built based on the interest in organic (user) traffic, as opposed to
 The complete mobile data recorded by Wikipedia is only available after October 2014.
 
 # License
-Wikimedia Foundation [Term of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions) and [Privacy Policy] (https://foundation.wikimedia.org/wiki/Privacy_policy)
+Wikimedia Foundation [Term of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions) and [Privacy Policy](https://foundation.wikimedia.org/wiki/Privacy_policy)
 
